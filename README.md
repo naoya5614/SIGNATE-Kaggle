@@ -1,3 +1,3 @@
 # Kaggle
-Kaggleコンペ用のコードを載せています。
+Kaggle&SIGNATE用のコードを載せています。
 1.
