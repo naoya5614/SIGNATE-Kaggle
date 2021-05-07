@@ -6,3 +6,12 @@ Kaggle&SIGNATE用のコードを載せています。
 4. Q3_memo(2021.04.25) SIGNATEのQuestで学んだこと
 5. SIGNATE_Study2(2021.04.25) SIGNATEのGymで学んだこと
 6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
