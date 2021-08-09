@@ -15,3 +15,5 @@ SIGNATE&Kaggle用のコードを載せています。
 13. Dynamic_Pricing(2021.5.16) SIGNATEのGym「ダイナミックプライシング」のまとめ
 14. Introduction_To_Object_Detection(2021.5.17) SIGNATEのGym「物体検出入門」のまとめ
 15. Future_Prediction_Of_Cloud_Images(2021.5.19) SIGNATEのQuest「雲画像の未来予測」のまとめ
+16. 改2_AI_Quest2021_アセスメント.ipynb(2021.8.8) SIGNATEのAIクエスト用1
+17. 改3_AI_Quest2021_アセスメント.ipynb(2021.8.9) SIGNATEのAIクエスト用2
