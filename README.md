@@ -1,11 +1,11 @@
 # SIGNATE&Kaggle
 SIGNATE&Kaggle用のコードを載せています。
-1. Car_Mileage_Prediction_4-3703(2021.4.24) SIGNATEの自動車の走行距離予測コンペで4.3703
-2. Liver_Disease_Judgment_0_7489(2021.4.24) SIGNATEの健診データによる肝疾患判定コンペで4.3703
-3. SIGNATE_Study(2021.4.24) SIGNATEのQuestで学んだこと
-4. Q3_memo(2021.4.25) SIGNATEのQuestで学んだこと
-5. SIGNATE_Study2(2021.4.25) SIGNATEのGymで学んだこと
-6. Classification_Of_Satellite_Images(2021.5.4) SIGNATEのQuest「衛星画像の分類」のまとめ
+1. Car_Mileage_Prediction_4-3703 SIGNATEの自動車の走行距離予測コンペで4.3703
+2. Liver_Disease_Judgment_0_7489 SIGNATEの健診データによる肝疾患判定コンペで4.3703
+3. SIGNATE_Study SIGNATEのQuestで学んだこと
+4. Q3_memo SIGNATEのQuestで学んだこと
+5. SIGNATE_Study2 SIGNATEのGymで学んだこと
+6. Classification_Of_Satellite_Images SIGNATEのQuest「衛星画像の分類」のまとめ
 7. Forecast_Stock_Price SIGNATEのQuest「株価を予測せよ」のまとめ
 8. Man_Hour_Reduction SIGNATEのQuest「新入社員の配属先割り当ての工数削減」のまとめ
 9. Predictive_Maintenance SIGNATEのQuest「工場設備の予知保全」のまとめ
